@@ -126,7 +126,7 @@
                             <TextBox x:Name="res" Grid.Row="2" Grid.Column="1" Margin="3" IsReadOnly="True"/>
                         </Grid>
                     </GroupBox>
-                    <GroupBox Header="Футы в метры" Foreground="#FF35E02C" Margin="10" Padding="5" BorderThickness="2" BorderBrush="#FF35E02C">
+                    <GroupBox Header="Футы в метры" Foreground="#FF35E02C" Margin="10,10,10,10" Padding="5" BorderThickness="2" BorderBrush="#FF35E02C">
                         <Grid>
                             <Grid.RowDefinitions>
                                 <RowDefinition/>
