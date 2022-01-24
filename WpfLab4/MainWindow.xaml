@@ -106,7 +106,7 @@
             </TabItem>
             <TabItem Header="Расстояния">
                 <UniformGrid Rows="2" Columns="2">
-                    <GroupBox Header="Дюймы в метры" Foreground="#FFE08E2C" Margin="10" Padding="5" BorderThickness="2" BorderBrush="#FFE08E2C">
+                    <GroupBox Header="Дюймы в метры" Foreground="#FFE08E2C" Margin="10,10,10,10" Padding="5" BorderThickness="2" BorderBrush="#FFE08E2C">
                         <Grid>
                             <Grid.RowDefinitions>
                                 <RowDefinition/>
